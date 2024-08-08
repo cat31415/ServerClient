@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="a29be32c-88d9-4b37-9a71-73cd7a41d4da" />
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="a29be32c-88d9-4b37-9a71-73cd7a41d4da">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.WZ5WzjStwF&#10;, stderr=}/awesomeProject" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
